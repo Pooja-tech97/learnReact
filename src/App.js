@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import React from "react"
 import './App.css';
-import LoadImages from "./compnents/homePage"
+import LoadImages from "./compnents/HomePage"
 
 function App() {
   return (
